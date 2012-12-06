@@ -11,7 +11,7 @@
 
 var async = require('async'),
     test  = require('tap').test,
-    task = require('./sepia.json'),
+    task = require('./compositeimage.json'),
     wizardry = require('./../lib/wizardry');
 
 /**

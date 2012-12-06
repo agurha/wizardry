@@ -1,0 +1,12 @@
+{
+    "commands": {
+        "geometry": "+40+138",
+        "dissolve": "90",
+        "background" : "transparent"
+
+    },
+    "composite": "true",
+    "baseimage": "iphone5.png",
+    "outputimage" : "combined.png"
+
+}
